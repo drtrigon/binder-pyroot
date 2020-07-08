@@ -1,0 +1,5 @@
+name: examples
+channels:
+  - conda-forge
+dependencies:
+  - root=6.22.0
