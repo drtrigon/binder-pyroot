@@ -10,4 +10,4 @@ Last but not least, the new PyROOT comes with new documentation! A PyROOT manual
 
 Try it on Binder!
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/root-dataframe-basic/master)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stwunsch/pyhep2020-pyroot/master)
